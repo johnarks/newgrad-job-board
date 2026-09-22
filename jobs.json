@@ -1,6 +1,6 @@
 {
   "verified": "September 22, 2026",
-  "count": 106,
+  "count": 126,
   "jobs": [
     {
       "company": "Addepar",
@@ -994,6 +994,206 @@
       "verified": "Sep 22, 2026",
       "fit": "NYC health-insurer entry-level data role (I-band) asking for 1+ years SQL or intermediate Python; health-domain fit leverages her ABA-sector background, though it is data-science rather than pure SWE.",
       "exp": "junior2"
+    },
+    {
+      "company": "Eulerity",
+      "exp": "entry",
+      "fit": "Forward-deployed role in Midtown NYC with no stated experience floor, doing hands-on glue code, APIs, and AI automation \u2014 matches the candidate's AI tooling and debugging background.",
+      "location": "New York, NY (hybrid, 3-4 days/week Midtown)",
+      "posted": null,
+      "role": "Forward Deployed Engineer",
+      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4698580006",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Breeze",
+      "exp": "junior2",
+      "fit": "Explicitly junior React/TypeScript + Node role at a NYC hybrid fintech working with Claude Code and RAG/agent tooling \u2014 aligned with the candidate's TypeScript and AI skills.",
+      "location": "New York, NY (hybrid)",
+      "posted": null,
+      "role": "Full Stack Engineer - Junior",
+      "url": "https://job-boards.greenhouse.io/breezecash/jobs/5412768008",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Garner Health",
+      "exp": "junior2",
+      "fit": "Engineer II title at a Series E health-tech in NYC's Financial District using AWS, Kubernetes, and AI \u2014 matches the candidate's cloud/AI experience; the posting asks for 2+ years.",
+      "location": "New York, NY (in office Tue-Thu)",
+      "posted": null,
+      "role": "Software Engineer II",
+      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6181655004",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Canonical",
+      "exp": "junior2",
+      "fit": "Junior title with built-in mentorship on the Observability team, remote across the Americas \u2014 a strong fit for a CS graduate with Python and Linux fundamentals.",
+      "location": "Remote \u2014 Americas (EMEA + Americas)",
+      "posted": null,
+      "role": "Junior Software Developer - Observability",
+      "url": "https://job-boards.greenhouse.io/canonicaljobs/jobs/7455729",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Rothera",
+      "exp": "junior2",
+      "fit": "Associate role requiring 2 years or less of experience at a NYC prediction-market startup, with senior-engineer mentorship on Kafka/Postgres distributed systems \u2014 fits the candidate's trading-research interest.",
+      "location": "New York, NY or Chicago, IL",
+      "posted": null,
+      "role": "Associate Software Engineer",
+      "url": "https://job-boards.greenhouse.io/rotheramarketsllc/jobs/4401091009",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Prism Data",
+      "exp": "entry",
+      "fit": "Explicitly welcomes internship experience; Python/PostgreSQL/AWS/LLM tooling stack mirrors candidate's AI workflow automation and FastAPI/SQL background.",
+      "location": "New York City, NY (NYC/San Diego hub; remote-friendly)",
+      "posted": null,
+      "role": "Software Engineer",
+      "url": "https://www.prismdata.com/careers/software-engineer/",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Climavision",
+      "exp": "junior2",
+      "fit": "Jr. Software Engineer requiring up to 2 years; full-stack weather-data platform work suits candidate's Python/backend and React skills.",
+      "location": "Remote, US",
+      "posted": "2026-09-01",
+      "role": "Jr. Software Engineer",
+      "url": "https://climavision.breezy.hr/p/85938efae74c-jr-software-engineer",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Bitdeer Technologies Group",
+      "exp": "entry",
+      "fit": "Entry-level SRE monitoring platform role open to new grads with 0-2 years; matches candidate's Python, AWS, and CI/CD background.",
+      "location": "Remote, US",
+      "posted": "2026-08-19",
+      "role": "SRE Monitoring Platform Software Engineer (Entry Level)",
+      "url": "https://bitdeer.breezy.hr/p/ed6314823d0c-sre-monitoring-platform-software-engine",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Mercury",
+      "exp": "junior2",
+      "fit": "Explicitly asks 2+ years; infrastructure role matches the candidate's AWS, Docker, and CI/CD experience.",
+      "location": "New York, NY (also SF, Portland, Remote US)",
+      "posted": "2026-08-21",
+      "role": "Software Engineer - Infrastructure",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6150432004",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Chime",
+      "exp": "junior2",
+      "fit": "No minimum years stated; posting targets 'emerging' engineers and LLM platform work, matching the candidate's LLM/API workflow and Python/TypeScript background.",
+      "location": "Remote, USA",
+      "posted": "2026-09-09",
+      "role": "Software Engineer, AI Enablement",
+      "url": "https://boards.greenhouse.io/chime/jobs/8578967002",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Duolingo",
+      "exp": "junior2",
+      "fit": "No stated years requirement; posting explicitly counts internships as experience, and the Kubernetes/CI-CD/AWS work matches the candidate's DevOps skills.",
+      "location": "New York, NY",
+      "posted": "2026-09-18",
+      "role": "Platform Engineer II",
+      "url": "https://careers.duolingo.com/jobs/8778700002?gh_jid=8778700002",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Robinhood",
+      "exp": "junior2",
+      "fit": "Explicitly asks 2+ years for a NYC backend role at a major fintech; Python/backend fundamentals fit.",
+      "location": "New York, NY (also Menlo Park, CA)",
+      "posted": "2026-08-25",
+      "role": "Software Engineer, Backend",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7263592",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Robinhood",
+      "exp": "junior2",
+      "fit": "Explicitly asks 2+ years; NYC web/frontend role directly matches the candidate's React/TypeScript full-stack background.",
+      "location": "New York, NY (also Menlo Park, CA)",
+      "posted": "2026-09-09",
+      "role": "Web Engineer",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7543003",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Affirm",
+      "exp": "junior2",
+      "fit": "Explicitly asks 2+ years for a remote-US ML engineering role; AI-adjacent to the candidate's LLM workflow experience, though classic ML is a stretch.",
+      "location": "Remote, US",
+      "posted": "2026-08-12",
+      "role": "Machine Learning Engineer II (Underwriting ML)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7822387003",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Ramp",
+      "exp": "junior2",
+      "fit": "Asks for a minimum of 2 years frontend experience (preferred); TypeScript/React/Vite stack matches the candidate's frontend skills.",
+      "location": "Hybrid \u2014 New York, NY or San Francisco, CA",
+      "posted": null,
+      "role": "Software Engineer, Frontend",
+      "url": "https://jobs.ashbyhq.com/ramp/4e64ab86-4e30-403b-b1b9-41dc052570ce",
+      "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "Rollout",
+      "role": "Founding Software Engineer",
+      "location": "New York City, NY",
+      "url": "https://jobs.ashbyhq.com/rollout/ac255ccb-888f-46d9-8d57-5e7334a5ee46",
+      "posted": "2026-07-17",
+      "verified": "Sep 22, 2026",
+      "exp": "entry",
+      "fit": "Apprenticeship-style AI product role in NYC; matches his AI workflow automation background and React/Python stack."
+    },
+    {
+      "company": "Garage",
+      "role": "Software Engineer",
+      "location": "New York City, NY",
+      "url": "https://jobs.ashbyhq.com/garage/f4018670-2c66-4da9-acac-2aa0af432abb",
+      "posted": "2026-07-08",
+      "verified": "Sep 22, 2026",
+      "exp": "junior2",
+      "fit": "YC-backed NYC startup (1+ yrs per their posting); TypeScript/React/Next.js marketplace work fits his frontend strength."
+    },
+    {
+      "company": "Interplay",
+      "role": "Junior Forward Deployed Engineer",
+      "location": "New York, NY (Hybrid)",
+      "url": "https://jobs.ashbyhq.com/interplay/eff79e22-1cf9-449d-be03-c9f4402955c7",
+      "posted": "2026-09-10",
+      "verified": "Sep 22, 2026",
+      "exp": "junior2",
+      "fit": "0-2 yr NYC hybrid role building internal tools with LLM automation \u2014 near-exact match for his AI workflow automation internship."
+    },
+    {
+      "company": "BlackRock",
+      "role": "Associate, Software Engineer - Aladdin Graph",
+      "location": "New York, NY (Hybrid)",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Associate--Software-Engineer---Aladdin-Graph_R266598",
+      "posted": null,
+      "verified": "Sep 22, 2026",
+      "exp": "junior2",
+      "fit": "Junior-band Associate role on Aladdin's graph platform, NYC hybrid; Java/Python/Golang matches his backend skills."
+    },
+    {
+      "company": "Chime",
+      "role": "Software Engineer, Infrastructure",
+      "location": "New York, NY (also Chicago/SF)",
+      "url": "https://job-boards.greenhouse.io/chime/jobs/8616359002",
+      "posted": "2026-09-09",
+      "verified": "Sep 22, 2026",
+      "exp": "junior2",
+      "fit": "NYC-eligible infra role asking for 2 years of cloud/infrastructure experience; fits his AWS/Docker/CI-CD background."
     }
   ]
 }
