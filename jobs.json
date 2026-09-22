@@ -1,6 +1,6 @@
 {
  "verified": "September 22, 2026",
- "count": 82,
+ "count": 90,
  "jobs": [
   {
    "company": "Addepar",
@@ -59,6 +59,14 @@
    "verified": "Sep 22, 2026"
   },
   {
+   "company": "Bloomberg",
+   "role": "2027 Software Engineer - New York",
+   "location": "New York, NY",
+   "url": "https://bloomberg.avature.net/careers/JobDetail/2027-Software-Engineer-New-York/21414",
+   "posted": "\u2014",
+   "verified": "Sep 22, 2026"
+  },
+  {
    "company": "Book of the Month",
    "role": "Associate Software Engineer - Frontend",
    "location": "New York City, NY",
@@ -88,6 +96,14 @@
    "location": "Miami, FL, NYC",
    "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
    "posted": "2026-07-06",
+   "verified": "Sep 22, 2026"
+  },
+  {
+   "company": "Citadel Securities",
+   "role": "Quantitative Developer/Research Engineer",
+   "location": "New York, NY",
+   "url": "https://www.citadelsecurities.com/careers/details/quantitative-developer-research-engineer/",
+   "posted": "\u2014",
    "verified": "Sep 22, 2026"
   },
   {
@@ -187,6 +203,14 @@
    "verified": "Sep 22, 2026"
   },
   {
+   "company": "Hudson River Trading",
+   "role": "Software Engineer (C++ or Python) \u2013 2027 Grads",
+   "location": "New York, NY",
+   "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122",
+   "posted": "\u2014",
+   "verified": "Sep 22, 2026"
+  },
+  {
    "company": "InstaLILY",
    "role": "Software Engineer 1 - General",
    "location": "SF, NYC",
@@ -208,6 +232,22 @@
    "location": "New York City, NY",
    "url": "https://www.janestreet.com/join-jane-street/position/8594541002",
    "posted": "77d",
+   "verified": "Sep 22, 2026"
+  },
+  {
+   "company": "Jane Street",
+   "role": "Software Engineer, New York",
+   "location": "New York, NY",
+   "url": "https://www.janestreet.com/join-jane-street/position/4274288002/",
+   "posted": "\u2014",
+   "verified": "Sep 22, 2026"
+  },
+  {
+   "company": "JPMorgan Chase",
+   "role": "Software Engineer Program \u2013 Full-Time (2027 Feb/July starts)",
+   "location": "New York, NY / Jersey City, NJ",
+   "url": "https://careers.jpmorgan.com/careers/US/en/programs/technology-fulltime-analyst",
+   "posted": "\u2014",
    "verified": "Sep 22, 2026"
   },
   {
@@ -403,6 +443,14 @@
    "verified": "Sep 22, 2026"
   },
   {
+   "company": "Two Sigma",
+   "role": "Software Engineering Full-Time Campus Hire (NYC)",
+   "location": "New York, NY",
+   "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Full-Time-Campus-Hire-NYC/14014",
+   "posted": "\u2014",
+   "verified": "Sep 22, 2026"
+  },
+  {
    "company": "Uniswap",
    "role": "Software Engineer - Early Career",
    "location": "NYC",
@@ -456,6 +504,22 @@
    "location": "Newark, NJ",
    "url": "https://www.amazon.jobs/jobs/10554516/apply",
    "posted": "14d",
+   "verified": "Sep 22, 2026"
+  },
+  {
+   "company": "Audible",
+   "role": "Software Development Engineer",
+   "location": "Newark, NJ",
+   "url": "https://www.audiblecareers.com/job/newark/software-development-engineer/27552/100645788576",
+   "posted": "\u2014",
+   "verified": "Sep 22, 2026"
+  },
+  {
+   "company": "Audible",
+   "role": "Software Development Engineer, Early Career",
+   "location": "Newark, NJ",
+   "url": "https://www.audiblecareers.com/job/-/-/75/100193825584",
+   "posted": "\u2014",
    "verified": "Sep 22, 2026"
   },
   {
