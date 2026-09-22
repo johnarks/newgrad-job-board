@@ -1,6 +1,6 @@
 {
   "verified": "September 22, 2026",
-  "count": 90,
+  "count": 106,
   "jobs": [
     {
       "company": "Addepar",
@@ -744,6 +744,150 @@
       "url": "https://job-boards.greenhouse.io/waymark/jobs/4711827005",
       "posted": "\u2014",
       "verified": "Sep 22, 2026"
+    },
+    {
+      "company": "LangChain",
+      "role": "Deployed Engineer (Early Career-NYC)",
+      "location": "New York, NY",
+      "url": "https://jobs.ashbyhq.com/langchain/dfbba971-a7e2-4feb-a0d9-8e38a1155134",
+      "posted": null,
+      "verified": "Sep 22, 2026",
+      "fit": "Explicit early-career NYC role for her OpenAI/LLM workflow, prompt chaining, and agent-pipeline experience."
+    },
+    {
+      "company": "OpenSesame",
+      "role": "Applied AI Engineer, Internal Automation",
+      "location": "Remote (US)",
+      "url": "https://job-boards.greenhouse.io/opensesame/jobs/8152738",
+      "posted": "2026-08-24",
+      "verified": "Sep 22, 2026",
+      "fit": "Remote-first AI automation role that mirrors her AI workflow-automation internship; explicitly drops conventional experience requirements."
+    },
+    {
+      "company": "OpenSesame",
+      "role": "AI Automation Engineer",
+      "location": "Remote (US)",
+      "url": "https://job-boards.greenhouse.io/opensesame/jobs/7967740",
+      "posted": "2026-08-24",
+      "verified": "Sep 22, 2026",
+      "fit": "Remote-first AI automation role matching her AI workflow-automation internship; asks for concrete past examples rather than years of experience."
+    },
+    {
+      "company": "Porter",
+      "role": "Full Stack Engineer",
+      "location": "New York, NY",
+      "url": "https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer",
+      "posted": null,
+      "verified": "Sep 22, 2026",
+      "fit": "NYC startup explicitly open to new grads; React/TypeScript + infra stack fits her full-stack and Docker/CI-CD background."
+    },
+    {
+      "company": "Altice USA",
+      "role": "Software Dev Engineer I",
+      "location": "Bethpage, NY",
+      "url": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/",
+      "posted": null,
+      "verified": "Sep 22, 2026",
+      "fit": "Entry-level Software Dev Engineer I in the tri-state (Long Island) with a stable corporate engineering org."
+    },
+    {
+      "company": "Eulerity",
+      "role": "Associate Web Development Software Engineer (SDK)",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4705868006",
+      "posted": null,
+      "verified": "Sep 22, 2026",
+      "fit": "NYC hybrid role centered on React/TypeScript and CI tooling; reach since it asks for 2-3 years of React/TS experience."
+    },
+    {
+      "company": "Eulerity",
+      "role": "Associate Backend Engineer",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/eulerity/jobs/4709039006",
+      "posted": null,
+      "verified": "Sep 22, 2026",
+      "fit": "NYC hybrid entry-ish backend role; reach since it asks for 1-3 years backend experience, though her Python/SQL background is relevant."
+    },
+    {
+      "company": "N1",
+      "role": "New Grad Software Engineer (Full Stack)",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a",
+      "posted": null,
+      "verified": "Sep 22, 2026",
+      "fit": "NYC new-grad full-stack role; different role from the N1 Backend Rust position already on the board."
+    },
+    {
+      "company": "SingleStore",
+      "role": "MIT-Software Engineer-New Grad |Helios|",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220882",
+      "posted": "2026-09-21",
+      "verified": "Sep 22, 2026",
+      "fit": "New-grad program open across the US; real-time distributed database work that rewards her SQL and systems fundamentals."
+    },
+    {
+      "company": "SingleStore",
+      "role": "MIT-Software Engineer-New Grad |Engine|",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220863",
+      "posted": "2026-09-21",
+      "verified": "Sep 22, 2026",
+      "fit": "New-grad program open across the US; database-engine team track fitting her SQL and backend experience."
+    },
+    {
+      "company": "Fleetio",
+      "role": "Associate Software Engineer, Marketplace",
+      "location": "Remote (USA)",
+      "url": "https://job-boards.greenhouse.io/fleetio/jobs/5213856007",
+      "posted": "2026-09-09",
+      "verified": "Sep 22, 2026",
+      "fit": "Remote associate role on a product marketplace team; React/TypeScript full-stack work at an entry-friendly band."
+    },
+    {
+      "company": "Stripe",
+      "role": "Software Engineer, New Grad",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/stripe/jobs/8128744",
+      "posted": "2026-09-17",
+      "verified": "Sep 22, 2026",
+      "fit": "New-grad track with a New York option at a top-tier engineering org; distinct requisition from the Immediate Start role already on the board."
+    },
+    {
+      "company": "Oscar Health",
+      "role": "Analytics Engineer I",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/oscar/jobs/7914958",
+      "posted": "2026-09-14",
+      "verified": "Sep 22, 2026",
+      "fit": "NYC health-tech analytics engineering role (1+ years, SQL/dbt); health-domain fit leverages her ABA/autism-sector background, though dbt is a gap."
+    },
+    {
+      "company": "Uniswap Labs",
+      "role": "Software Engineer - Early Career",
+      "location": "New York, NY",
+      "url": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012",
+      "posted": null,
+      "verified": "Sep 22, 2026",
+      "fit": "NYC early-career role open to degrees completed December 2024-September 2026; strong engineering brand for a new grad."
+    },
+    {
+      "company": "ICF International",
+      "role": "Junior Software Engineer (Entry level - Remote US)",
+      "location": "Remote (US)",
+      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Junior-Software-Engineer--Entry-level---Remote-US-_R2603054",
+      "posted": "2026-09-16",
+      "verified": "Sep 22, 2026",
+      "fit": "Remote-US entry-level role explicitly for CS graduates; Python/Django plus CI/CD and cloud-native work matches her backend background."
+    },
+    {
+      "company": "Oscar Health",
+      "role": "Data Scientist I",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/oscar/jobs/7592274",
+      "posted": "2026-09-14",
+      "verified": "Sep 22, 2026",
+      "fit": "NYC health-insurer entry-level data role (I-band) asking for 1+ years SQL or intermediate Python; health-domain fit leverages her ABA-sector background, though it is data-science rather than pure SWE."
     }
   ]
 }
